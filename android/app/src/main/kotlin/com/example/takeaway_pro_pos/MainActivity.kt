@@ -1,0 +1,5 @@
+package com.example.takeaway_pro_pos
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
